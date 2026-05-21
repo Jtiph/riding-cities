@@ -1,6 +1,7 @@
 # Riding Cities 🛹
 
 Site vitrine d’une association de skate mettant en avant les activités, les membres fondateurs et les plannings de cours.
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0ff7cd40-6efc-4f0a-8524-9936b5fc2875" />
 
 ## Features
 
@@ -20,4 +21,4 @@ Site vitrine d’une association de skate mettant en avant les activités, les m
 
 ## Live Site
 
-🌍 
+🌍 https://jtiph.github.io/riding-cities/
