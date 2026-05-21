@@ -1,7 +1,7 @@
 # Riding Cities 🛹
 
 Site vitrine d’une association de skate mettant en avant les activités, les membres fondateurs et les plannings de cours.
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0ff7cd40-6efc-4f0a-8524-9936b5fc2875" />
+<img width="302" height="417" alt="Capture d&#39;écran 2026-05-21 155712" src="https://github.com/user-attachments/assets/88aa378c-38b8-4b81-861a-241917c5e787" />
 
 ## Features
 
